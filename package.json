@@ -1,0 +1,12 @@
+{
+  "id": "gitkrakenboards",
+  "name": "GitKraken Boards",
+  "version": "1.0.0",
+  "description": "GitKraken Boards",
+  "main": "index.js",
+  "author": "DevRaeph <me@devraeph.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.gitkraken.com/glo/"
+  }
+}
